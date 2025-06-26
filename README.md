@@ -2,7 +2,7 @@
 
 A streamlined platform designed to facilitate easy user authentication. With a focus on simplicity and security, this project provides a user-friendly interface for creating accounts and logging in. Ideal for integrating into larger web applications or for standalone use.
 
-Check out the live demo [here](https://amit712singhal.github.io/Login-SignUp-Website/).
+Check out the live demo [here](https://singhal-amit.github.io/Login-SignUp-Website/).
 
 ## Preview
 
@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/amit712singhal/Login-SignUp-Website.git
+   git clone https://github.com/singhal-amit/Login-SignUp-Website.git
    cd Login-SignUp-Website
    ```
 
@@ -81,7 +81,7 @@ I love connecting with new people and exploring new opportunities. Feel free to 
 <table>
     <tr>
         <td>
-            <a href="https://github.com/amit712singhal">
+            <a href="https://github.com/singhal-amit">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                     height="48" width="48" alt="GitHub" />
             </a>
@@ -98,7 +98,7 @@ I love connecting with new people and exploring new opportunities. Feel free to 
                     alt="instagram" height="48" width="48" /></a>
         </td>
         <td>
-            <a href="mailto:rakshit.singhal712@gmail.com">
+            <a href="mailto:rksinghal.amit@gmail.com">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
                     height="48" width="48" alt="Email" />
             </a>
